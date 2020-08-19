@@ -7,6 +7,6 @@ I used Random Forest Classifier to classify the emails into spam or not.
 
 These are the results:
 
-Precision Score = 99.7%
-Recall Score = 96.02%
-F1 Score = 0.9782
+Precision Score = 99.35%
+Recall Score = 91.09%
+F1 Score = 0.9504
